@@ -5,6 +5,3 @@
 [submodule "BCSub"]
 	path = BCSub
 	url = https://github.com/cran/BCSub
-[submodule "dcGSA"]
-	path = dcGSA
-	url = https://git.bioconductor.org/packages/dcGSA
